@@ -1,4 +1,4 @@
-# Tactical Battle
+# Tactical Battle - Python
 
 > No requiere entorno virtual ni dependencias externas. Ejecución compatible con **Python 3**.
 
